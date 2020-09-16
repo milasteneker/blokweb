@@ -1,5 +1,5 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+**Auteur:** Mila Steneker
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
@@ -38,15 +38,20 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Het omschakkelen door meer met procenten te werken om de site responsive te maken moet heel erg wennen. Het ging goed om de verschillende soorten elementen in op de goede plekken te krijgen.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+(images/ss1.jpg)
+
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+Mehmet: 9.20 - 9.35
+Roos: 9.35 - 9.50
+Mila: 9.50 - 10.05
+Tensael: 10.05 - 10.20
+Tom: 10.20 - 10.25
 
 ### Verslag van meeting
 
@@ -56,11 +61,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
+**Je startniveau:** Rood
 
-**Je focus:** -kies uit responsive óf surface plane-
+**Je focus:** Responsive
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je opdracht:** https://www2.hm.com/nl_nl/index.html
 
 **Screenshot(s):**
 
