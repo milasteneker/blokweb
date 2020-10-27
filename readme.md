@@ -6,25 +6,26 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df
+2. https://www.w3schools.com/
 
 
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+Ik vond het maken van het hamburger menu makkelijker dan verwacht. Dit ging vrij soepel. 
+Ook het gebruiken van grid ging vrij gemakkelijk. 
+Ik vind het lastig om dingen over afbeeldingen heen te plaatsen en dan vooral het positioneren daarvan.
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+(images/ssEind.jpg)
 
 
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+Bij deze voortgang kon ik niet aanwezig zijn.
 
 
 
@@ -89,8 +90,5 @@ Nav bar veranderen, Aanbevolen aanpassen, procenten aanpassen.
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
+(images/ssOrigineel.jpg)
 
-**Breakdown-schets(en):**
-
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
