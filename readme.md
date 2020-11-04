@@ -12,10 +12,22 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Eindgesprek (week 7/8)
+Door de weken heen ben ik begonnen bij het maken van de header voor de mobiele versie. Ik heb een toolbar gemaakt en daar de elementen aan toegevoegd. Daarna ben ik verder gegaan met het maken van de campagne banners deze heb ik zo snel mogelijk responsive gemaakt. Ik liep er tegenaan dat de letters in de banner niet mooi meeschaalde als ik procenten gebruikte dus heb ik daar uiteindelijk media query voor gebruikt.
 
-Ik vond het maken van het hamburger menu makkelijker dan verwacht. Dit ging vrij soepel. 
-Ook het gebruiken van grid ging vrij gemakkelijk. 
-Ik vind het lastig om dingen over afbeeldingen heen te plaatsen en dan vooral het positioneren daarvan.
+Daarna ben ik verder gegaan met het maken van de tweede pagina. Hier heb ik mij vooral gericht op het gebruiken van css grid. Toen ik eenmaal de grid erin had gezet was het verder vormgeven van deze pagina makkelijk. 
+
+Hierna ben ik het hamburgermenu werkend gaan maken het was even zoeken en ik heb het uiteindelijk opgelost door de visibility aan te passen met javascript.
+
+Na mijn eerste eindbeoordeling kwam eruit dat ik meer interactie moest gaan toevoegen, dat de javascript niet volgens de regels wat en dat de homepagina nog beter responsive moest.
+
+Ik ben eerst begonnen aan het veranderen van mijn javascript, met wat hulp is dat gelukt en toen merkte ik ook heel snel waarom het op deze manier moest. Het is namelijk op dit moment veel makkelijker om dingen te veranderen in css dan dat je overal nieuwe javascript moet gaan schrijven.
+
+Daarna heb ik het menu responsive gemaakt omdat hiermee ook de homepagina responsive word. Ik heb met media query ervoor gezorgt dat het hamburger menu zich uitklapt bij een scherm grote van 1024 pixels. Ik heb hier veel gebruik gemaakt van flexbox omdat op sommige delen de volgorde van de elementen in de header verschillen van de mobiele versie. 
+
+Hierna heb ik hovers toegevoegd aan de elementen op de pagina. Hierbij heb ik vooral gebruik gemaakt van het onderlijnen van dingen die eigenlijk links zijn en het toevoegen van pointers op klikbare elemanten. Deze manier van hoveren gebruiken ze ook op de officiele pagina van h&m
+
+Na het verbeteren van mijn website merk je toch hoeveel de kleine dingen verschil maken in je pagina en hoe belangrijk de hovers zijn voor de interactie. 
+
 
 **Screenshot(s):**
 
